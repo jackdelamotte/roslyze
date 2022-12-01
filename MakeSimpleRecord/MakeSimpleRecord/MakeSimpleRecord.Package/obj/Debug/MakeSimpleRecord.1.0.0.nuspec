@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MakeSimpleRecord</id>
+    <version>1.0.0</version>
+    <authors>jackdelamotte</authors>
+    <developmentDependency>true</developmentDependency>
+    <licenseUrl>http://license_url_here_or_delete_this_line/</licenseUrl>
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
+    <description>MakeSimpleRecord</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright</copyright>
+    <tags>MakeSimpleRecord, analyzers</tags>
+    <repository url="http://REPOSITORY_URL_HERE_OR_DELETE_THIS_LINE" />
+  </metadata>
+  <files>
+    <file src="C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.dll" target="analyzers\dotnet\cs\MakeSimpleRecord.dll" />
+    <file src="C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.CodeFixes.dll" target="analyzers\dotnet\cs\MakeSimpleRecord.CodeFixes.dll" />
+    <file src="C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\tools\install.ps1" target="tools\install.ps1" />
+    <file src="C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\tools\uninstall.ps1" target="tools\uninstall.ps1" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)system.runtime.compilerservices.unsafe\6.0.0\buildTransitive\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.targets" Condition="Exists('$(NuGetPackageRoot)system.runtime.compilerservices.unsafe\6.0.0\buildTransitive\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.text.encoding.codepages\6.0.0\buildTransitive\netcoreapp2.0\System.Text.Encoding.CodePages.targets" Condition="Exists('$(NuGetPackageRoot)system.text.encoding.codepages\6.0.0\buildTransitive\netcoreapp2.0\System.Text.Encoding.CodePages.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.io.pipelines\6.0.1\buildTransitive\netcoreapp2.0\System.IO.Pipelines.targets" Condition="Exists('$(NuGetPackageRoot)system.io.pipelines\6.0.1\buildTransitive\netcoreapp2.0\System.IO.Pipelines.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.composition.runtime\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.Runtime.targets" Condition="Exists('$(NuGetPackageRoot)system.composition.runtime\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.Runtime.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.composition.hosting\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.Hosting.targets" Condition="Exists('$(NuGetPackageRoot)system.composition.hosting\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.Hosting.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.composition.attributedmodel\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.AttributedModel.targets" Condition="Exists('$(NuGetPackageRoot)system.composition.attributedmodel\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.AttributedModel.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.composition.typedparts\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.TypedParts.targets" Condition="Exists('$(NuGetPackageRoot)system.composition.typedparts\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.TypedParts.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.composition.convention\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.Convention.targets" Condition="Exists('$(NuGetPackageRoot)system.composition.convention\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.Convention.targets')" />
+    <Import Project="$(NuGetPackageRoot)system.composition\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.targets" Condition="Exists('$(NuGetPackageRoot)system.composition\6.0.0\buildTransitive\netcoreapp2.0\System.Composition.targets')" />
+  </ImportGroup>
+</Project>

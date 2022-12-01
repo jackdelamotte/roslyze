@@ -1,0 +1,12 @@
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\bin\Debug\netstandard2.0\MakeSwitchExpression.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\bin\Debug\netstandard2.0\MakeSwitchExpression.dll
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\bin\Debug\netstandard2.0\MakeSwitchExpression.pdb
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.Resources.resources
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.dll
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression\obj\Debug\netstandard2.0\MakeSwitchExpression.pdb

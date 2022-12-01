@@ -1,0 +1,12 @@
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\bin\Debug\netstandard2.0\MakeConst.deps.json
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\bin\Debug\netstandard2.0\MakeConst.dll
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\bin\Debug\netstandard2.0\MakeConst.pdb
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.Resources.resources
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.dll
+C:\Users\jackdelamotte\source\repos\MakeConst\MakeConst\MakeConst\obj\Debug\netstandard2.0\MakeConst.pdb

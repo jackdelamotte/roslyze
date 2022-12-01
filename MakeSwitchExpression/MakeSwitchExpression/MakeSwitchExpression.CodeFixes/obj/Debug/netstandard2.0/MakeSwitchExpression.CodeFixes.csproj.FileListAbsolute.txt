@@ -1,0 +1,15 @@
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\bin\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\bin\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.dll
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\bin\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.pdb
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\bin\Debug\netstandard2.0\MakeSwitchExpression.dll
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\bin\Debug\netstandard2.0\MakeSwitchExpression.pdb
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixResources.resources
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.csproj.CopyComplete
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.dll
+C:\Users\jackdelamotte\source\repos\MakeSwitchExpression\MakeSwitchExpression\MakeSwitchExpression.CodeFixes\obj\Debug\netstandard2.0\MakeSwitchExpression.CodeFixes.pdb

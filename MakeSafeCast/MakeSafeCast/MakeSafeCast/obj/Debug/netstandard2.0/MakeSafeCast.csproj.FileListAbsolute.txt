@@ -1,0 +1,12 @@
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\bin\Debug\netstandard2.0\MakeSafeCast.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\bin\Debug\netstandard2.0\MakeSafeCast.dll
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\bin\Debug\netstandard2.0\MakeSafeCast.pdb
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.Resources.resources
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.dll
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast\obj\Debug\netstandard2.0\MakeSafeCast.pdb

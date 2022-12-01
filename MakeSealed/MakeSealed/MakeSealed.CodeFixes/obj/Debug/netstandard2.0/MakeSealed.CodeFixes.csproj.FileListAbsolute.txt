@@ -1,0 +1,15 @@
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\bin\Debug\netstandard2.0\MakeSealed.CodeFixes.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\bin\Debug\netstandard2.0\MakeSealed.CodeFixes.dll
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\bin\Debug\netstandard2.0\MakeSealed.CodeFixes.pdb
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\bin\Debug\netstandard2.0\MakeSealed.dll
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\bin\Debug\netstandard2.0\MakeSealed.pdb
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixResources.resources
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.csproj.CopyComplete
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.dll
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed.CodeFixes\obj\Debug\netstandard2.0\MakeSealed.CodeFixes.pdb

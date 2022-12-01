@@ -1,0 +1,15 @@
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\bin\Debug\netstandard2.0\MakeSafeCast.CodeFixes.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\bin\Debug\netstandard2.0\MakeSafeCast.CodeFixes.dll
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\bin\Debug\netstandard2.0\MakeSafeCast.CodeFixes.pdb
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\bin\Debug\netstandard2.0\MakeSafeCast.dll
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\bin\Debug\netstandard2.0\MakeSafeCast.pdb
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixResources.resources
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.csproj.CopyComplete
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.dll
+C:\Users\jackdelamotte\source\repos\MakeSafeCast\MakeSafeCast\MakeSafeCast.CodeFixes\obj\Debug\netstandard2.0\MakeSafeCast.CodeFixes.pdb

@@ -1,0 +1,12 @@
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\bin\Debug\netstandard2.0\MakeSimpleRecord.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\bin\Debug\netstandard2.0\MakeSimpleRecord.dll
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\bin\Debug\netstandard2.0\MakeSimpleRecord.pdb
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.Resources.resources
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.dll
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord\obj\Debug\netstandard2.0\MakeSimpleRecord.pdb

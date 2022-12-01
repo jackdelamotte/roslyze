@@ -1,0 +1,12 @@
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\bin\Debug\netstandard2.0\MakeSealed.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\bin\Debug\netstandard2.0\MakeSealed.dll
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\bin\Debug\netstandard2.0\MakeSealed.pdb
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.Resources.resources
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.csproj.GenerateResource.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.dll
+C:\Users\jackdelamotte\source\repos\MakeSealed\MakeSealed\MakeSealed\obj\Debug\netstandard2.0\MakeSealed.pdb

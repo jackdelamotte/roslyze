@@ -1,0 +1,17 @@
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.Package.deps.json
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.Package.dll
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.Package.pdb
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.CodeFixes.dll
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.dll
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.CodeFixes.pdb
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\bin\Debug\netstandard2.0\MakeSimpleRecord.pdb
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.csproj.AssemblyReference.cache
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.AssemblyInfoInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.AssemblyInfo.cs
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.csproj.CoreCompileInputs.cache
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.csproj.CopyComplete
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.dll
+C:\Users\jackdelamotte\source\repos\MakeSimpleRecord\MakeSimpleRecord\MakeSimpleRecord.Package\obj\Debug\netstandard2.0\MakeSimpleRecord.Package.pdb
